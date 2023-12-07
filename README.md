@@ -1,12 +1,12 @@
 ## <div align="center">Hey 👋 Assalamu'alaikum, What's up?</div>
 
-### <div align="center">I'm Rofik Suprianto, a full-time backend developer based on Bandung, ID</div>
+### <div align="center">I'm Rofik Suprianto, a full-time backend developer based in Bandung, ID</div>
 
 
 <div align="center">✨ Creating bugs since October '19</div>  
 
 
-<div align="center">📚 I'm currently learning Frontend Web Development (ReactJS)</div>  
+<div align="center">📚 I'm currently learning Frontend Web Development (ReactJS).</div>  
 
 
 <div align="center">🎯 Goals: Become an end-to-end software engineer, work remotely</div>  
