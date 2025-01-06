@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋 Assalamu'alaikum, What's up?</div>
+## <div align="center">Hey 👋, What's up?</div>
 
 ### <div align="center">I'm Rofik Suprianto, a full-time backend developer based in Bandung, ID</div>
 
